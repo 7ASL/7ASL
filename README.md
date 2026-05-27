@@ -2,9 +2,8 @@
 
 # Hey, I'm Arek 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&width=500&lines=3rd+Year+CS+Student;Web+Dev+%7C+Embedded+Tinkerer;Python+%C2%B7+C%2FC%2B%2B+%C2%B7+JS%2FTS+%C2%B7+Java+%C2%B7+C%23;Building+from+the+ground+up)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&width=500&lines=3rd+Year+CS+Student;Web+Dev+%7C+Embedded+Tinkerer;C%2FC%2B%2B+%C2%B7+JS%2FTS+%C2%B7+Java+%C2%B7+C%23+%C2%B7+Python;Building+from+the+ground+up)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=7ASL&color=6366f1&style=flat-square&label=Profile+Views)](https://github.com/7ASL)
 
 </div>
 
@@ -53,23 +52,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=7ASL&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ASL&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=7ASL&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
