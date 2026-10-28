@@ -2,7 +2,7 @@
 
 # Hey, I'm Arek 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&width=500&lines=3rd+Year+CS+Student;Web+Dev+%7C+Embedded+Tinkerer;C%2FC%2B%2B+%C2%B7+JS%2FTS+%C2%B7+Java+%C2%B7+C%23+%C2%B7+Python;Building+from+the+ground+up)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&width=500&lines=4th+Year+CS+Student;Web+Dev+%7C+Embedded+Tinkerer;C%2FC%2B%2B+%C2%B7+JS%2FTS+%C2%B7+Java+%C2%B7+C%23+%C2%B7+Python;Building+from+the+ground+up)](https://git.io/typing-svg)
 
 
 </div>
@@ -11,7 +11,7 @@
 
 ### About Me
 
-- 🎓 3rd year CS student
+- 🎓 4th year CS student
 - 💻 Focus: web development & embedded systems (hobby)
 - 🛠️ Languages: C/C++, Java, Kotlin, JS/TS, Python
 - ⚙️ Workflow: Git, Docker, Jira
